@@ -1,0 +1,3408 @@
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-container {
+  min-height: 100vh;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-veri-vent-dashboard-i-n-v-e-s-t-o-r {
+  width: 100%;
+  height: 1629px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-header1 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 1712px;
+  display: flex;
+  padding: 120px 0;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(242, 242, 242, 1);
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-hero8bgshapecoverdark {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 257px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-heroshapewave2 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 1781px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-vector {
+  top: -87px;
+  right: -10px;
+  width: 1440px;
+  height: 739px;
+  position: absolute;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-rectangle326 {
+  top: 116px;
+  left: 98px;
+  width: 1242px;
+  height: 1px;
+  position: absolute;
+  border-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-frame1000004425 {
+  top: 33px;
+  left: 98px;
+  width: 1243px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text {
+  color: var(--dl-color-default-darkbackgroundcolor);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: 50px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-frame20 {
+  top: 8px;
+  left: 265px;
+  width: 620px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-dashboard {
+  width: 127px;
+  height: 34px;
+  display: flex;
+  padding: 0;
+  position: relative;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 60px;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-bxsdashboard {
+  top: 3.9981627464294434px;
+  left: 0px;
+  width: 27px;
+  height: 27px;
+  position: absolute;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text002 {
+  top: -0.00005314033478498459px;
+  left: 31.985727310180664px;
+  color: var(--dl-color-default-darkbackgroundcolor);
+  height: auto;
+  position: absolute;
+  font-size: 16.65923309326172px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 33.31846618652344px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-dashboard1 {
+  width: 270px;
+  height: 34px;
+  display: flex;
+  padding: 0;
+  position: relative;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 60px;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-icbaselineverifieduser {
+  top: 3.9981627464294434px;
+  left: 0.00012457487173378468px;
+  width: 27px;
+  height: 27px;
+  position: absolute;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text004 {
+  top: -0.00005314033478498459px;
+  left: 30.653112411499023px;
+  color: rgba(143, 143, 143, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16.65923309326172px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 33.31846618652344px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-dashboard2 {
+  width: 104px;
+  height: 34px;
+  display: flex;
+  padding: 0;
+  position: relative;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-iconparksetting {
+  top: 5.330901145935059px;
+  left: 0.00012021911243209615px;
+  width: 26.65477180480957px;
+  height: 26.65477180480957px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-group {
+  top: 2.2212677001953125px;
+  left: 2.221297025680542px;
+  width: 22.212308883666992px;
+  height: 22.212308883666992px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-vector01 {
+  top: 0px;
+  left: 0px;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-vector02 {
+  top: 8.329692840576172px;
+  left: 8.32972240447998px;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-iconparksetting1 {
+  top: 0px;
+  left: 0px;
+  width: 15.992863655090332px;
+  height: 15.992863655090332px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-group1 {
+  top: 1.3326854705810547px;
+  left: 1.3328588008880615px;
+  width: 13.327385902404785px;
+  height: 13.327385902404785px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-vector03 {
+  top: 0px;
+  left: 0px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-vector04 {
+  top: 4.997691631317139px;
+  left: 4.997865200042725px;
+  width: 3px;
+  height: 3px;
+  position: absolute;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text006 {
+  top: -0.00005314033478498459px;
+  left: 32.76609802246094px;
+  color: rgba(143, 143, 143, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16.65923309326172px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 33.31846618652344px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-frame14 {
+  top: 1px;
+  left: 1002px;
+  width: 241px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-ellipse1 {
+  width: 48px;
+  height: 48px;
+  position: relative;
+  border-color: transparent;
+  margin-right: 7.953795433044434px;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text008 {
+  color: var(--dl-color-default-darkbackgroundcolor);
+  width: 185px;
+  height: auto;
+  font-size: 19.089107513427734px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 25.452144622802734px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-group6 {
+  top: 1552px;
+  left: 5px;
+  width: 1440px;
+  height: 74px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-footer {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 74px;
+  display: flex;
+  padding: 120px 0;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-div {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 74px;
+  display: flex;
+  padding: 120px 0;
+  overflow: hidden;
+  position: absolute;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-container1 {
+  top: 0px;
+  left: 195px;
+  width: 1050px;
+  display: flex;
+  padding: 25px 0;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-row {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-colmd7 {
+  width: 600px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 213px;
+  flex-direction: column;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-privacy-terms {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text010 {
+  color: rgba(37, 43, 66, 1);
+  height: auto;
+  font-size: 15px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: justified;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: 150%;
+  font-stretch: normal;
+  margin-right: 32px;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text012 {
+  color: rgba(37, 43, 66, 1);
+  height: auto;
+  align-self: auto;
+  text-align: justified;
+  line-height: 150%;
+  margin-right: 32px;
+  margin-bottom: 0;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text013 {
+  color: rgba(37, 43, 66, 1);
+  height: auto;
+  font-size: 15px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: justified;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: 150%;
+  font-stretch: normal;
+  margin-right: 32px;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text015 {
+  color: rgba(37, 43, 66, 1);
+  height: auto;
+  align-self: auto;
+  text-align: justified;
+  line-height: 150%;
+  margin-right: 32px;
+  margin-bottom: 0;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text016 {
+  color: rgba(37, 43, 66, 1);
+  height: auto;
+  font-size: 15px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: justified;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: 150%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-colmd6 {
+  width: 236px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-socialmedia {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  justify-content: center;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-facebooksec {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 20px;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-antdesignfacebookfilled {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-instagramsec {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 20px;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-antdesigninstagramoutlined {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-twittersec {
+  width: 24px;
+  height: 19.764705657958984px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-antdesigntwitteroutlined {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 20px;
+  position: absolute;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-group1000004335 {
+  top: 300px;
+  left: 95px;
+  width: 470.4849548339844px;
+  height: 331px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(255, 255, 255, 1);
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-chart7 {
+  top: 63.10033416748047px;
+  left: 122.87960052490234px;
+  width: 264.5785827636719px;
+  height: 204.79933166503906px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-frame273 {
+  top: -28.782615661621094px;
+  left: -135.05670166015625px;
+  width: 325px;
+  height: 326.5718078613281px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-ellipse41 {
+  top: 267.8997497558594px;
+  left: 61.993255615234375px;
+  width: 208px;
+  height: 208px;
+  position: absolute;
+  border-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-ellipse42 {
+  top: 59.779361724853516px;
+  left: 267.89959716796875px;
+  width: 208px;
+  height: 207px;
+  position: absolute;
+  border-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-ellipse43 {
+  top: 193.61676025390625px;
+  left: 306.6454162597656px;
+  width: 206px;
+  height: 210px;
+  position: absolute;
+  border-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-ellipse44 {
+  top: 270.1138000488281px;
+  left: 266.7925720214844px;
+  width: 208px;
+  height: 210px;
+  position: absolute;
+  border-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text018 {
+  top: 159.41146850585938px;
+  left: 106.2741928100586px;
+  color: var(--dl-color-primary-500);
+  height: auto;
+  position: absolute;
+  font-size: 22.140466690063477px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: justified;
+  font-family: Plus Jakarta Sans;
+  font-weight: 700;
+  line-height: 150%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text020 {
+  top: 142.80612182617188px;
+  left: 119.5584716796875px;
+  color: var(--dl-color-secondary-400);
+  height: auto;
+  position: absolute;
+  font-size: 15.498327255249023px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: justified;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: 150%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-frame274 {
+  top: 53.137115478515625px;
+  left: 179.33795166015625px;
+  width: 105px;
+  height: 151.66220092773438px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-frame272 {
+  top: 14.391213417053223px;
+  left: 0.00006205581303220242px;
+  width: 90px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+  justify-content: center;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-frame268 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-bottom: 17.712373733520508px;
+  justify-content: center;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-frame267 {
+  width: 18.819398880004883px;
+  height: 18.819398880004883px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 8.856186866760254px;
+  border-radius: 3.3210701942443848px;
+  background-color: rgba(37, 43, 66, 1);
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text022 {
+  color: rgba(19, 17, 17, 0.800000011920929);
+  height: auto;
+  font-size: 15.498327255249023px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-frame269 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-bottom: 17.712373733520508px;
+  justify-content: center;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-frame2671 {
+  width: 18.819398880004883px;
+  height: 18.819398880004883px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 8.856186866760254px;
+  border-radius: 3.3210701942443848px;
+  background-color: rgba(35, 166, 240, 1);
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text024 {
+  color: rgba(19, 17, 17, 0.800000011920929);
+  height: auto;
+  font-size: 15.498327255249023px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-frame270 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-bottom: 17.712373733520508px;
+  justify-content: center;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-frame2672 {
+  width: 18.819398880004883px;
+  height: 18.819398880004883px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 8.856186866760254px;
+  border-radius: 3.3210701942443848px;
+  background-color: rgba(255, 157, 43, 1);
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text026 {
+  color: rgba(19, 17, 17, 0.800000011920929);
+  height: auto;
+  font-size: 15.498327255249023px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-frame271 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  justify-content: center;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-frame2673 {
+  width: 18.819398880004883px;
+  height: 18.819398880004883px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 8.856186866760254px;
+  border-radius: 3.3210701942443848px;
+  background-color: rgba(51, 185, 56, 1);
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text028 {
+  color: rgba(19, 17, 17, 0.800000011920929);
+  height: auto;
+  font-size: 15.498327255249023px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text030 {
+  top: 37.638797760009766px;
+  left: 44.28093719482422px;
+  color: rgba(25, 22, 53, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17.712373733520508px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-group1000004330 {
+  top: 25.58719253540039px;
+  left: 345.39129638671875px;
+  width: 80.81270599365234px;
+  height: 40.83420944213867px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-rectangle5547 {
+  top: 7.623507022857666px;
+  left: 0px;
+  width: 81px;
+  height: 33px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 11.070233345031738px;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-group1000004329 {
+  top: 0px;
+  left: 9.963825225830078px;
+  width: 59.779266357421875px;
+  height: 31.479698181152344px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text032 {
+  top: 16.479698181152344px;
+  color: var(--dl-color-default-violet);
+  height: auto;
+  position: absolute;
+  font-size: 12.17725658416748px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-shape {
+  top: 5.553402423858643px;
+  left: 59.779266357421875px;
+  width: 6px;
+  height: 10px;
+  position: absolute;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-group1000004352 {
+  top: 300px;
+  left: 613.1904296875px;
+  width: 470.4849548339844px;
+  height: 331px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(255, 255, 255, 1);
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-chart71 {
+  top: 63.10033416748047px;
+  left: 122.87980651855469px;
+  width: 264.5785827636719px;
+  height: 204.79933166503906px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-frame2731 {
+  top: -28.782615661621094px;
+  left: -135.0569305419922px;
+  width: 325px;
+  height: 326.5718078613281px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-ellipse411 {
+  top: 267.8997497558594px;
+  left: 61.99301528930664px;
+  width: 208px;
+  height: 208px;
+  position: absolute;
+  border-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-ellipse421 {
+  top: 59.779361724853516px;
+  left: 267.8993835449219px;
+  width: 208px;
+  height: 207px;
+  position: absolute;
+  border-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-ellipse431 {
+  top: 193.61676025390625px;
+  left: 306.64520263671875px;
+  width: 206px;
+  height: 210px;
+  position: absolute;
+  border-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-ellipse441 {
+  top: 270.1138000488281px;
+  left: 266.7923583984375px;
+  width: 208px;
+  height: 210px;
+  position: absolute;
+  border-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text034 {
+  top: 159.41146850585938px;
+  left: 106.27395629882812px;
+  color: var(--dl-color-primary-500);
+  height: auto;
+  position: absolute;
+  font-size: 22.140466690063477px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: justified;
+  font-family: Plus Jakarta Sans;
+  font-weight: 700;
+  line-height: 150%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text036 {
+  top: 142.80612182617188px;
+  left: 119.55823516845703px;
+  color: var(--dl-color-secondary-400);
+  height: auto;
+  position: absolute;
+  font-size: 15.498327255249023px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: justified;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: 150%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-frame2741 {
+  top: 53.137115478515625px;
+  left: 179.33770751953125px;
+  width: 105px;
+  height: 151.66220092773438px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-frame2721 {
+  top: 14.391213417053223px;
+  left: -0.00017636915436014533px;
+  width: 123px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+  justify-content: center;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-frame2681 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-bottom: 17.712373733520508px;
+  justify-content: center;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-frame2674 {
+  width: 18.819398880004883px;
+  height: 18.819398880004883px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 8.856186866760254px;
+  border-radius: 3.3210701942443848px;
+  background-color: rgba(35, 166, 240, 1);
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text038 {
+  color: rgba(19, 17, 17, 0.800000011920929);
+  height: auto;
+  font-size: 15.498327255249023px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-frame2691 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-bottom: 17.712373733520508px;
+  justify-content: center;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-frame2675 {
+  width: 18.819398880004883px;
+  height: 18.819398880004883px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 8.856186866760254px;
+  border-radius: 3.3210701942443848px;
+  background-color: rgba(255, 128, 93, 1);
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text040 {
+  color: rgba(19, 17, 17, 0.800000011920929);
+  height: auto;
+  font-size: 15.498327255249023px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-frame2701 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-bottom: 17.712373733520508px;
+  justify-content: center;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-frame2676 {
+  width: 18.819398880004883px;
+  height: 18.819398880004883px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 8.856186866760254px;
+  border-radius: 3.3210701942443848px;
+  background-color: rgba(255, 157, 43, 1);
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text042 {
+  color: rgba(19, 17, 17, 0.800000011920929);
+  height: auto;
+  font-size: 15.498327255249023px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-frame2711 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  justify-content: center;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-frame2677 {
+  width: 18.819398880004883px;
+  height: 18.819398880004883px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 8.856186866760254px;
+  border-radius: 3.3210701942443848px;
+  background-color: rgba(37, 43, 66, 1);
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text044 {
+  color: rgba(19, 17, 17, 0.800000011920929);
+  height: auto;
+  font-size: 15.498327255249023px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text046 {
+  top: 37.638797760009766px;
+  left: 44.28114318847656px;
+  color: rgba(25, 22, 53, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17.712373733520508px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-group10000043301 {
+  top: 25.587194442749023px;
+  left: 345.3915100097656px;
+  width: 80.81270599365234px;
+  height: 40.834205627441406px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-rectangle55471 {
+  top: 7.62350606918335px;
+  left: 0px;
+  width: 81px;
+  height: 33px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 11.070233345031738px;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-group10000043291 {
+  top: 0px;
+  left: 9.963119506835938px;
+  width: 59.77949142456055px;
+  height: 31.47970199584961px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text048 {
+  top: 16.47970199584961px;
+  color: var(--dl-color-default-violet);
+  height: auto;
+  position: absolute;
+  font-size: 12.17725658416748px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-shape1 {
+  top: 5.553402423858643px;
+  left: 59.77949142456055px;
+  width: 6px;
+  height: 10px;
+  position: absolute;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-frame33705 {
+  top: 300px;
+  left: 1126px;
+  width: 220px;
+  height: 331px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-rectangle5561 {
+  top: 74.17057037353516px;
+  left: -0.00025148934219032526px;
+  width: 220px;
+  height: 257px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 0 0 15.498327255249023px 15.498327255249023px;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-rectangle5562 {
+  top: 0px;
+  left: -0.00025148934219032526px;
+  width: 220px;
+  height: 63px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 15.498327255249023px 15.498327255249023px 0 0;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text050 {
+  top: 19.926422119140625px;
+  left: 27.67533302307129px;
+  color: rgba(25, 22, 53, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17.712373733520508px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-close-button {
+  top: 19.926422119140625px;
+  left: 166.05325317382812px;
+  width: 21.981971740722656px;
+  height: 21.981971740722656px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-rectangle19 {
+  top: -0.00009226718975696713px;
+  left: 0.08711656183004379px;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 11.070233345031738px;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-x-outline {
+  top: 4.257191181182861px;
+  left: 4.242778778076172px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-group1000004356 {
+  top: 96.41851806640625px;
+  left: -0.0005029786843806505px;
+  width: 220.2976531982422px;
+  height: 51.92271041870117px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-group1000004355 {
+  top: 15.390938758850098px;
+  left: 17.71237564086914px;
+  width: 9.128036499023438px;
+  height: 6.088628768920898px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-vector05 {
+  top: 0.000038376620068447664px;
+  left: 8.299641609191895px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-vector06 {
+  top: 0.000038376620068447664px;
+  left: 4.149384498596191px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-vector07 {
+  top: 5.258399486541748px;
+  left: 4.149384498596191px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-vector08 {
+  top: 0px;
+  left: 0px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-vector09 {
+  top: 5.258399486541748px;
+  left: 0.0002090300986310467px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-group75860 {
+  top: 0px;
+  left: 36.53277587890625px;
+  width: 156.5146484375px;
+  height: 35.47993469238281px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-group75853 {
+  top: 0px;
+  left: 0px;
+  width: 142px;
+  height: 35.47993469238281px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-group75852 {
+  top: 0px;
+  left: 0px;
+  width: 142px;
+  height: 35.47993469238281px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-group75859 {
+  top: 0px;
+  left: 0px;
+  width: 142px;
+  height: 35.47993469238281px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text052 {
+  left: 0.0000816523825051263px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 11.070233345031738px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: 16.605350494384766px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text054 {
+  top: 20.47993278503418px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 9.132943153381348px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 400;
+  line-height: 14.114547729492188px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-vector10 {
+  top: 5.42781925201416px;
+  left: 141.69825744628906px;
+  width: 15px;
+  height: 9px;
+  position: absolute;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-line99 {
+  top: 51.92271041870117px;
+  left: 0px;
+  width: 220px;
+  height: 0px;
+  position: absolute;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-group1000004357 {
+  top: 167.26747131347656px;
+  left: -0.0005029786843806505px;
+  width: 220.2976531982422px;
+  height: 51.92315673828125px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-group10000043551 {
+  top: 15.391382217407227px;
+  left: 17.71237564086914px;
+  width: 9.128036499023438px;
+  height: 6.088628768920898px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-vector11 {
+  top: -0.00007267062028404325px;
+  left: 8.299641609191895px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-vector12 {
+  top: -0.00007267062028404325px;
+  left: 4.149384498596191px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-vector13 {
+  top: 5.258288383483887px;
+  left: 4.149384498596191px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-vector14 {
+  top: 0px;
+  left: 0px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-vector15 {
+  top: 5.258288383483887px;
+  left: 0.0002090300986310467px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-group758601 {
+  top: 0px;
+  left: 36.53277587890625px;
+  width: 156.5146484375px;
+  height: 35.47993469238281px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-group758531 {
+  top: 0px;
+  left: 0px;
+  width: 142px;
+  height: 35.47993469238281px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-group758521 {
+  top: 0px;
+  left: 0px;
+  width: 142px;
+  height: 35.47993469238281px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-group758591 {
+  top: 0px;
+  left: 0px;
+  width: 142px;
+  height: 35.47993469238281px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text056 {
+  left: 0.0000816523825051263px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 11.070233345031738px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: 16.605350494384766px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text058 {
+  top: 20.47993278503418px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 9.132943153381348px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 400;
+  line-height: 14.114547729492188px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-vector16 {
+  top: 5.428152084350586px;
+  left: 141.69825744628906px;
+  width: 15px;
+  height: 9px;
+  position: absolute;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-line991 {
+  top: 51.92315673828125px;
+  left: 0px;
+  width: 220px;
+  height: 0px;
+  position: absolute;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-group1000004358 {
+  top: 238.11761474609375px;
+  left: -0.0005029786843806505px;
+  width: 220.2976531982422px;
+  height: 51.92262268066406px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-group10000043552 {
+  top: 15.390850067138672px;
+  left: 17.71237564086914px;
+  width: 9.128036499023438px;
+  height: 6.088628768920898px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-vector17 {
+  top: 0.00006042276436346583px;
+  left: 8.299641609191895px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-vector18 {
+  top: 0.00006042276436346583px;
+  left: 4.149384498596191px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-vector19 {
+  top: 5.258421421051025px;
+  left: 4.149384498596191px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-vector20 {
+  top: 0px;
+  left: 0px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-vector21 {
+  top: 5.258421421051025px;
+  left: 0.0002090300986310467px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-group758602 {
+  top: 0px;
+  left: 36.53277587890625px;
+  width: 156.5146484375px;
+  height: 35.47993469238281px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-group758532 {
+  top: 0px;
+  left: 0px;
+  width: 142px;
+  height: 35.47993469238281px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-group758522 {
+  top: 0px;
+  left: 0px;
+  width: 142px;
+  height: 35.47993469238281px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-group758592 {
+  top: 0px;
+  left: 0px;
+  width: 142px;
+  height: 35.47993469238281px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text060 {
+  left: 0.0000816523825051263px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 11.070233345031738px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: 16.605350494384766px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text062 {
+  top: 20.479934692382812px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 9.132943153381348px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 400;
+  line-height: 14.114547729492188px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-vector22 {
+  top: 5.42775297164917px;
+  left: 141.69825744628906px;
+  width: 15px;
+  height: 9px;
+  position: absolute;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-line992 {
+  top: 51.92262268066406px;
+  left: 0px;
+  width: 220px;
+  height: 0px;
+  position: absolute;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-frame33722 {
+  top: 671.55078125px;
+  left: 95px;
+  width: 1251px;
+  height: 857.4491577148438px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-group1000004360 {
+  top: 0.0001220703125px;
+  left: -0.0008843826362863183px;
+  width: 1245.6968994140625px;
+  height: 857.4491577148438px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-rectangle5559 {
+  top: 0px;
+  left: 0px;
+  width: 1228px;
+  height: 854px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 23.129650115966797px;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-status {
+  top: 147.03854370117188px;
+  left: 19.82551383972168px;
+  width: 1199.4375px;
+  height: 57.824127197265625px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(242, 244, 246, 1);
+  border-style: solid;
+  border-width: 1.6521178483963013px;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text064 {
+  top: 16.521202087402344px;
+  left: 39.650901794433594px;
+  color: var(--dl-color-primary-300);
+  height: auto;
+  position: absolute;
+  font-size: 19.825414657592773px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: justified;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: 150%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-frame33665 {
+  top: 16.521202087402344px;
+  left: 455.984619140625px;
+  width: 118px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text066 {
+  color: var(--dl-color-primary-300);
+  height: auto;
+  font-size: 19.825414657592773px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: justified;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: 150%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-frame33666 {
+  top: 16.521202087402344px;
+  left: 736.8438720703125px;
+  width: 51px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text068 {
+  color: var(--dl-color-primary-300);
+  height: auto;
+  font-size: 19.825414657592773px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: justified;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: 150%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-frame33667 {
+  top: 16.521202087402344px;
+  left: 979.7061157226562px;
+  width: 78px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text070 {
+  color: var(--dl-color-primary-300);
+  height: auto;
+  font-size: 19.825414657592773px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: justified;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: 150%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-frame33701 {
+  top: 244.51329040527344px;
+  left: 54.51939392089844px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+  flex-direction: column;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-frame33699 {
+  width: 1072.2244873046875px;
+  height: 59.47624206542969px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-bottom: 23.129650115966797px;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-group33696 {
+  top: 0.0001157698716269806px;
+  left: 0.00013761538139078766px;
+  width: 59.47624206542969px;
+  height: 59.47624206542969px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-ellipse8 {
+  top: 0px;
+  left: 0px;
+  width: 59px;
+  height: 59px;
+  position: absolute;
+  border-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-bank {
+  top: 14.4560546875px;
+  left: 16.1083984375px;
+  width: 27.259944915771484px;
+  height: 27.259944915771484px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-vuesaxboldbank {
+  top: 0px;
+  left: 0px;
+  width: 27.259944915771484px;
+  height: 27.259944915771484px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-bank1 {
+  top: 0px;
+  left: 0px;
+  width: 27.259944915771484px;
+  height: 27.259944915771484px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-vector23 {
+  top: 20.444957733154297px;
+  left: 2.2716619968414307px;
+  width: 23px;
+  height: 5px;
+  position: absolute;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-vector24 {
+  top: 12.494141578674316px;
+  left: 5.679154872894287px;
+  width: 2px;
+  height: 8px;
+  position: absolute;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-vector25 {
+  top: 12.494141578674316px;
+  left: 10.222478866577148px;
+  width: 2px;
+  height: 8px;
+  position: absolute;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-vector26 {
+  top: 12.494141578674316px;
+  left: 14.765803337097168px;
+  width: 2px;
+  height: 8px;
+  position: absolute;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-vector27 {
+  top: 12.494141578674316px;
+  left: 19.309127807617188px;
+  width: 2px;
+  height: 8px;
+  position: absolute;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-vector28 {
+  top: 24.136409759521484px;
+  left: 0.28395774960517883px;
+  width: 27px;
+  height: 2px;
+  position: absolute;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-vector29 {
+  top: 2.3737094402313232px;
+  left: 2.2716619968414307px;
+  width: 23px;
+  height: 10px;
+  position: absolute;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text072 {
+  top: 13.217024803161621px;
+  left: 75.9979476928711px;
+  color: var(--dl-color-primary-500);
+  height: auto;
+  position: absolute;
+  font-size: 23.129650115966797px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: justified;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: 150%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text074 {
+  top: 13.217024803161621px;
+  left: 408.073486328125px;
+  color: var(--dl-color-primary-500);
+  height: auto;
+  position: absolute;
+  font-size: 23.129650115966797px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: justified;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: 150%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text076 {
+  top: 13.217024803161621px;
+  left: 688.9327392578125px;
+  color: var(--dl-color-primary-500);
+  height: auto;
+  position: absolute;
+  font-size: 23.129650115966797px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: justified;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: 150%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text078 {
+  top: 15.433837890625px;
+  left: 931.8369140625px;
+  color: var(--dl-color-primary-500);
+  height: auto;
+  position: absolute;
+  font-size: 19.825414657592773px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: justified;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-vector1 {
+  width: 1099px;
+  height: 0px;
+  position: relative;
+  margin-bottom: 23.129650115966797px;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-frame33703 {
+  width: 1072.2244873046875px;
+  height: 59.47624206542969px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-bottom: 23.129650115966797px;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-group336961 {
+  top: 0.00005339395647752099px;
+  left: 0.00013761538139078766px;
+  width: 59.47624206542969px;
+  height: 59.47624206542969px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-ellipse81 {
+  top: 0px;
+  left: 0px;
+  width: 59px;
+  height: 59px;
+  position: absolute;
+  border-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-logospaypal {
+  top: 14.107515335083008px;
+  left: 16.521404266357422px;
+  width: 27px;
+  height: 32px;
+  position: absolute;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text080 {
+  top: 13.216890335083008px;
+  left: 75.9979476928711px;
+  color: var(--dl-color-primary-500);
+  height: auto;
+  position: absolute;
+  font-size: 23.129650115966797px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: justified;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: 150%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text082 {
+  top: 13.216890335083008px;
+  left: 408.073486328125px;
+  color: var(--dl-color-primary-500);
+  height: auto;
+  position: absolute;
+  font-size: 23.129650115966797px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: justified;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: 150%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text084 {
+  top: 13.216890335083008px;
+  left: 688.9327392578125px;
+  color: var(--dl-color-primary-500);
+  height: auto;
+  position: absolute;
+  font-size: 23.129650115966797px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: justified;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: 150%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text086 {
+  top: 15.43408203125px;
+  left: 931.8369140625px;
+  color: var(--dl-color-primary-500);
+  height: auto;
+  position: absolute;
+  font-size: 19.825414657592773px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: justified;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-vector2 {
+  width: 1099px;
+  height: 0px;
+  position: relative;
+  margin-bottom: 23.129650115966797px;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-frame33704 {
+  width: 1072.2244873046875px;
+  height: 59.47624206542969px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-bottom: 23.129650115966797px;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-group336962 {
+  top: 8.543088370061014e-7px;
+  left: 0.00013761538139078766px;
+  width: 59.47624206542969px;
+  height: 59.47624206542969px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-ellipse82 {
+  top: 0px;
+  left: 0px;
+  width: 59px;
+  height: 59px;
+  position: absolute;
+  border-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-logosfigma {
+  top: 13.216779708862305px;
+  left: 18.173444747924805px;
+  width: 24px;
+  height: 36px;
+  position: absolute;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text088 {
+  top: 13.216779708862305px;
+  left: 75.9979476928711px;
+  color: var(--dl-color-primary-500);
+  height: auto;
+  position: absolute;
+  font-size: 23.129650115966797px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: justified;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: 150%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text090 {
+  top: 13.216779708862305px;
+  left: 408.073486328125px;
+  color: var(--dl-color-primary-500);
+  height: auto;
+  position: absolute;
+  font-size: 23.129650115966797px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: justified;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: 150%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text092 {
+  top: 13.216779708862305px;
+  left: 688.9327392578125px;
+  color: var(--dl-color-primary-500);
+  height: auto;
+  position: absolute;
+  font-size: 23.129650115966797px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: justified;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: 150%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text094 {
+  top: 15.433837890625px;
+  left: 931.8369140625px;
+  color: var(--dl-color-primary-500);
+  height: auto;
+  position: absolute;
+  font-size: 19.825414657592773px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: justified;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-vector3 {
+  width: 1099px;
+  height: 0px;
+  position: relative;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-frame33702 {
+  top: 563.3720092773438px;
+  left: 54.51939392089844px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+  flex-direction: column;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-frame336991 {
+  width: 1072.2244873046875px;
+  height: 59.47624206542969px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-bottom: 23.129650115966797px;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-group336963 {
+  top: 0.00009098621376324445px;
+  left: 0.00013761538139078766px;
+  width: 59.47624206542969px;
+  height: 59.47624206542969px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-ellipse83 {
+  top: 0px;
+  left: 0px;
+  width: 59px;
+  height: 59px;
+  position: absolute;
+  border-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-bank2 {
+  top: 14.455810546875px;
+  left: 16.1083984375px;
+  width: 27.259944915771484px;
+  height: 27.259944915771484px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-vuesaxboldbank1 {
+  top: 0px;
+  left: 0px;
+  width: 27.259944915771484px;
+  height: 27.259944915771484px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-bank3 {
+  top: 0px;
+  left: 0px;
+  width: 27.259944915771484px;
+  height: 27.259944915771484px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-vector30 {
+  top: 20.444957733154297px;
+  left: 2.2716619968414307px;
+  width: 23px;
+  height: 5px;
+  position: absolute;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-vector31 {
+  top: 12.494141578674316px;
+  left: 5.679154872894287px;
+  width: 2px;
+  height: 8px;
+  position: absolute;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-vector32 {
+  top: 12.494141578674316px;
+  left: 10.222478866577148px;
+  width: 2px;
+  height: 8px;
+  position: absolute;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-vector33 {
+  top: 12.494141578674316px;
+  left: 14.765803337097168px;
+  width: 2px;
+  height: 8px;
+  position: absolute;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-vector34 {
+  top: 12.494141578674316px;
+  left: 19.309127807617188px;
+  width: 2px;
+  height: 8px;
+  position: absolute;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-vector35 {
+  top: 24.136409759521484px;
+  left: 0.28395774960517883px;
+  width: 27px;
+  height: 2px;
+  position: absolute;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-vector36 {
+  top: 2.3737094402313232px;
+  left: 2.2716619968414307px;
+  width: 23px;
+  height: 10px;
+  position: absolute;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text096 {
+  top: 13.216841697692871px;
+  left: 75.9979476928711px;
+  color: var(--dl-color-primary-500);
+  height: auto;
+  position: absolute;
+  font-size: 23.129650115966797px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: justified;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: 150%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text098 {
+  top: 13.216841697692871px;
+  left: 408.073486328125px;
+  color: var(--dl-color-primary-500);
+  height: auto;
+  position: absolute;
+  font-size: 23.129650115966797px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: justified;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: 150%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text100 {
+  top: 13.216841697692871px;
+  left: 688.9327392578125px;
+  color: var(--dl-color-primary-500);
+  height: auto;
+  position: absolute;
+  font-size: 23.129650115966797px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: justified;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: 150%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text102 {
+  top: 15.43359375px;
+  left: 931.8369140625px;
+  color: var(--dl-color-primary-500);
+  height: auto;
+  position: absolute;
+  font-size: 19.825414657592773px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: justified;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-vector11 {
+  width: 1099px;
+  height: 0px;
+  position: relative;
+  margin-bottom: 23.129650115966797px;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-frame337031 {
+  width: 1072.2244873046875px;
+  height: 59.47624206542969px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-bottom: 23.129650115966797px;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-group336964 {
+  top: 0.000028610294975806028px;
+  left: 0.00013761538139078766px;
+  width: 59.47624206542969px;
+  height: 59.47624206542969px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-ellipse84 {
+  top: 0px;
+  left: 0px;
+  width: 59px;
+  height: 59px;
+  position: absolute;
+  border-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-logospaypal1 {
+  top: 14.107588768005371px;
+  left: 16.521404266357422px;
+  width: 27px;
+  height: 32px;
+  position: absolute;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text104 {
+  top: 13.216962814331055px;
+  left: 75.9979476928711px;
+  color: var(--dl-color-primary-500);
+  height: auto;
+  position: absolute;
+  font-size: 23.129650115966797px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: justified;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: 150%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text106 {
+  top: 13.216962814331055px;
+  left: 408.073486328125px;
+  color: var(--dl-color-primary-500);
+  height: auto;
+  position: absolute;
+  font-size: 23.129650115966797px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: justified;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: 150%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text108 {
+  top: 13.216962814331055px;
+  left: 688.9327392578125px;
+  color: var(--dl-color-primary-500);
+  height: auto;
+  position: absolute;
+  font-size: 23.129650115966797px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: justified;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: 150%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text110 {
+  top: 15.43408203125px;
+  left: 931.8369140625px;
+  color: var(--dl-color-primary-500);
+  height: auto;
+  position: absolute;
+  font-size: 19.825414657592773px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: justified;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-vector21 {
+  width: 1099px;
+  height: 0px;
+  position: relative;
+  margin-bottom: 23.129650115966797px;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-frame337041 {
+  width: 1072.2244873046875px;
+  height: 59.47624206542969px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-bottom: 23.129650115966797px;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-group336965 {
+  top: -0.000023929351300466806px;
+  left: 0.00013761538139078766px;
+  width: 59.47624206542969px;
+  height: 59.47624206542969px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-ellipse85 {
+  top: 0px;
+  left: 0px;
+  width: 59px;
+  height: 59px;
+  position: absolute;
+  border-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-logosfigma1 {
+  top: 13.217108726501465px;
+  left: 18.173444747924805px;
+  width: 24px;
+  height: 36px;
+  position: absolute;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text112 {
+  top: 13.217108726501465px;
+  left: 75.9979476928711px;
+  color: var(--dl-color-primary-500);
+  height: auto;
+  position: absolute;
+  font-size: 23.129650115966797px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: justified;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: 150%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text114 {
+  top: 13.217108726501465px;
+  left: 408.073486328125px;
+  color: var(--dl-color-primary-500);
+  height: auto;
+  position: absolute;
+  font-size: 23.129650115966797px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: justified;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: 150%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text116 {
+  top: 13.217108726501465px;
+  left: 688.9327392578125px;
+  color: var(--dl-color-primary-500);
+  height: auto;
+  position: absolute;
+  font-size: 23.129650115966797px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: justified;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: 150%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text118 {
+  top: 15.433837890625px;
+  left: 931.8369140625px;
+  color: var(--dl-color-primary-500);
+  height: auto;
+  position: absolute;
+  font-size: 19.825414657592773px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: justified;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-vector31 {
+  width: 1099px;
+  height: 0px;
+  position: relative;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text120 {
+  top: 54.51990509033203px;
+  left: 49.563270568847656px;
+  color: rgba(25, 22, 53, 1);
+  height: auto;
+  position: absolute;
+  font-size: 29.738121032714844px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-filter {
+  top: 36.34681701660156px;
+  left: 683.975830078125px;
+  width: 455.9845275878906px;
+  height: 66.084716796875px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-group35 {
+  top: 0px;
+  left: 0px;
+  width: 455.9845275878906px;
+  height: 66.084716796875px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(248, 245, 255, 1);
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-group1000004347 {
+  top: 13.216767311096191px;
+  left: 31.029212951660156px;
+  width: 397.0706481933594px;
+  height: 39.23780059814453px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-group1000004348 {
+  top: 0px;
+  left: 0px;
+  width: 211.36782836914062px;
+  height: 39.23780059814453px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(255, 255, 255, 1);
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text122 {
+  top: 9.91286849975586px;
+  left: 20.187633514404297px;
+  color: var(--dl-color-default-icontextcolor);
+  height: auto;
+  position: absolute;
+  font-size: 15.436976432800293px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-vector37 {
+  top: 14.869246482849121px;
+  left: 379.8320617675781px;
+  width: 17px;
+  height: 9px;
+  position: absolute;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text124 {
+  top: 21.47722625732422px;
+  left: 282.5126647949219px;
+  color: var(--dl-color-default-icontextcolor);
+  height: auto;
+  position: absolute;
+  font-size: 18.173295974731445px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-frame1000004424 {
+  top: 3.3040812015533447px;
+  left: 1245.6971435546875px;
+  width: 0.00003733586709131487px;
+  height: 854.1449584960938px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-line100 {
+  top: -0.000008804637218418065px;
+  left: 0.0004640439583454281px;
+  width: 854px;
+  height: 0px;
+  position: absolute;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-line101 {
+  top: -0.000008804637218418065px;
+  left: 0.0004640439583454281px;
+  width: 178px;
+  height: 0px;
+  position: absolute;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-frame201 {
+  top: 158px;
+  left: 170px;
+  width: 127px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-dashboard3 {
+  width: 127px;
+  height: 34px;
+  display: flex;
+  padding: 0;
+  position: relative;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-bxsdashboard1 {
+  top: 3.9981627464294434px;
+  left: 0px;
+  width: 27px;
+  height: 27px;
+  position: absolute;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text126 {
+  top: -0.00005314033478498459px;
+  left: 31.985727310180664px;
+  color: rgba(37, 43, 66, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16.65923309326172px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 33.31846618652344px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-frame1000004426 {
+  top: 151px;
+  left: 670px;
+  width: 676px;
+  height: 52px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-group1000004243 {
+  top: 0px;
+  left: 0px;
+  width: 536px;
+  height: 52px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-group1000004242 {
+  top: 13.619047164916992px;
+  left: 21px;
+  width: 176px;
+  height: 22.285715103149414px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text128 {
+  left: 32px;
+  color: rgba(79, 88, 103, 1);
+  width: 144px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-shape2 {
+  top: 0px;
+  left: 0px;
+  width: 18px;
+  height: 22px;
+  position: absolute;
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-button {
+  top: 0px;
+  left: 551px;
+  width: 125px;
+  height: 52px;
+  display: flex;
+  padding: 13px 24px;
+  position: absolute;
+  box-shadow: 4px 8px 24px 0px rgba(36, 107, 253, 0.25) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  justify-content: center;
+  background-color: rgba(35, 166, 240, 1);
+}
+.veri-vent-dashboard-i-n-v-e-s-t-o-r-text130 {
+  color: var(--dl-color-primary-0);
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: 150%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
