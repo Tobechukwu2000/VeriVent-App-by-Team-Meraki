@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="english">
+  <head>
+    <title>exported project</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="utf-8" />
+    <meta property="twitter:card" content="summary_large_image" />
+
+    <style data-tag="reset-style-sheet">
+      html {  line-height: 1.15;}body {  margin: 0;}* {  box-sizing: border-box;  border-width: 0;  border-style: solid;}p,li,ul,pre,div,h1,h2,h3,h4,h5,h6,figure,blockquote,figcaption {  margin: 0;  padding: 0;}button {  background-color: transparent;}button,input,optgroup,select,textarea {  font-family: inherit;  font-size: 100%;  line-height: 1.15;  margin: 0;}button,select {  text-transform: none;}button,[type="button"],[type="reset"],[type="submit"] {  -webkit-appearance: button;}button::-moz-focus-inner,[type="button"]::-moz-focus-inner,[type="reset"]::-moz-focus-inner,[type="submit"]::-moz-focus-inner {  border-style: none;  padding: 0;}button:-moz-focus,[type="button"]:-moz-focus,[type="reset"]:-moz-focus,[type="submit"]:-moz-focus {  outline: 1px dotted ButtonText;}a {  color: inherit;  text-decoration: inherit;}input {  padding: 2px 4px;}img {  display: block;}html { scroll-behavior: smooth  }
+    </style>
+    <style data-tag="default-style-sheet">
+      html {
+        font-family: Inter;
+        font-size: 16px;
+      }
+
+      body {
+        font-weight: 400;
+        font-style:normal;
+        text-decoration: none;
+        text-transform: none;
+        letter-spacing: normal;
+        line-height: 1.15;
+        color: var(--dl-color-gray-black);
+        background-color: var(--dl-color-gray-white);
+
+      }
+    </style>
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&amp;display=swap"
+      data-tag="font"
+    />
+    <link rel="stylesheet" href="{% static 'verivent_startup_registration/style.css' %}" />
+    <link href="{% static 'verivent_startup_registration/startupregistration.css' %}" rel="stylesheet" />
+  </head>
+  <body style="margin-left:10%;margin-right:10%">
+    <div>
+
+      <div class="startup-registration1-container">
+        <div class="startup-registration1-startup-registration1">
+          <div class="startup-registration1-frame427320611">
+            <div class="startup-registration1-frame427320596">
+              <span class="startup-registration1-text btnText">
+                <span>Step 1/3</span>
+              </span>
+              <form method="post" action="#">
+              <span class="startup-registration1-text02">
+                <span>Startup details</span>
+              </span>
+              <div class="startup-registration1-group5">
+                <div class="startup-registration1-frame12">
+                  <span class="startup-registration1-text04">
+                    <span>BACK</span>
+                  </span>
+                </div>
+                <div class="startup-registration1-frame13">
+                  <span class="startup-registration1-text06">
+                    <span><a href="{% url 'logindetails' %}">CONTINUE</a></span>
+                  </span>
+                </div>
+              </div>
+              <div class="startup-registration1-frame427320597">
+                <div class="startup-registration1-group1">
+                  <span class="startup-registration1-text08">
+                    <span>START-UP NAME</span>
+                  </span>
+                  <div class="startup-registration1-frame11"><input type="text" placeholder="Start-Up Name" name="name" style="width:100%;height:100%" /></div>
+                </div>
+                <div class="startup-registration1-group2">
+                  <span class="startup-registration1-text10">
+                    <span>REGISTRATION NO.</span>
+                  </span>
+                  <div class="startup-registration1-frame111"><input type="text" placeholder="Registration Number" name="reg_no" class="form" style="width:100%;height:100%" /></div>
+                </div>
+                <div class="startup-registration1-group3">
+                  <span class="startup-registration1-text12">
+                    <span>REGISTERED BUSINESS ADDRESS</span>
+                  </span>
+                  <div class="startup-registration1-frame112"><input type="text" placeholder="Registration Business Address" name="biz-address" style="width:100%;height:100%" /></div>
+                </div>
+                <div class="startup-registration1-group4">
+                  <span class="startup-registration1-text14">
+                    <span>INDUSTRY/SECTOR</span>
+                  </span>
+                  <div class="startup-registration1-frame113">
+                    <span class="startup-registration1-text16">
+                      <span><select name="sector" style="width:100%"><option value="none">Choose One</option><option value="clean_tech"> Clean Technology</option>
+                      <option value="fintech">FinTech</option><option value="agric">Agriculture</option><option value="edu_tech">Education Technology</option>
+                    <option value="e-commerce">ECommerce</option><option value="retail">Retail</option><Option value="service">Service</Option>
+                    <option value="construction">Construction</option><option value="health">Health</option><option value="logistics">Logistic</option></select></span>
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </form>
+            <div class="startup-registration1-frame427320594">
+              <img
+                src="{% static 'verivent_startup_registration/image/rectangle3241065-z28a5-700h.png' %}"
+                alt="Rectangle3241065"
+                class="startup-registration1-rectangle324"
+              />
+              <button class="startup-registration1-buttonbtnprimarycolor">
+                <span class="startup-registration1-text18 btnText">
+                  <span>GET STARTED</span>
+                </span>
+              </button>
+              <span class="startup-registration1-text20 h2">
+                <span>Already have an account?</span>
+              </span>
+              <span class="startup-registration1-text22 h3">
+                <span>
+                  <span>Welcome back!</span>
+                  <br />
+                  <span>Sign in to Verify your startup credentials</span>
+                </span>
+              </span>
+            </div>
+          </div>
+          <div class="startup-registration1-frame427320589">
+            <span class="startup-registration1-text27 h2">
+              <span>VeriVent.</span>
+            </span>
+            <div class="startup-registration1-frame33687">
+              <div class="startup-registration1-navigation-menu">
+                <div class="startup-registration1-products">
+                  <span class="startup-registration1-text29">
+                    <span>Home</span>
+                  </span>
+                </div>
+                <div class="startup-registration1-company">
+                  <span class="startup-registration1-text31 MediumType@18">
+                    <span>Products</span>
+                  </span>
+                  <div class="startup-registration1-arrowdown">
+                    <div class="startup-registration1-vuesaxlineararrowdown">
+                      <div class="startup-registration1-arrowdown1">
+                        <img
+                          src="{% static 'verivent_startup_registration/image/vector7531-xh0r.svg' %}"
+                          alt="Vector7531"
+                          class="startup-registration1-vector"
+                        />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <span class="startup-registration1-text33 MediumType@18">
+                  <span>Pricing</span>
+                </span>
+                <span class="startup-registration1-text35 MediumType@18">
+                  <span>User Guide</span>
+                </span>
+                <span class="startup-registration1-text37 MediumType@18">
+                  <span>Benefits</span>
+                </span>
+              </div>
+              <button class="startup-registration1-button">
+                <span class="startup-registration1-text39 MediumType@18">
+                  <span>Login</span>
+                </span>
+              </button>
+              <button class="startup-registration1-button1">
+                <span class="startup-registration1-text41">
+                  <span>Sign up</span>
+                </span>
+              </button>
+            </div>
+          </div>
+          <img
+            src="{% static 'verivent_startup_registration/image/vector7524-cj7.svg' %}"
+            alt="Vector7524"
+            class="startup-registration1-vector1"
+          />
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

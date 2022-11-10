@@ -1,0 +1,1112 @@
+<!DOCTYPE html>
+<html lang="english">
+{% load static %}
+  <head>
+    <title>exported project</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="utf-8" />
+    <meta property="twitter:card" content="summary_large_image" />
+
+    <style data-tag="reset-style-sheet">
+      html {  line-height: 1.15;}body {  margin: 0;}* {  box-sizing: border-box;  border-width: 0;  border-style: solid;}p,li,ul,pre,div,h1,h2,h3,h4,h5,h6,figure,blockquote,figcaption {  margin: 0;  padding: 0;}button {  background-color: transparent;}button,input,optgroup,select,textarea {  font-family: inherit;  font-size: 100%;  line-height: 1.15;  margin: 0;}button,select {  text-transform: none;}button,[type="button"],[type="reset"],[type="submit"] {  -webkit-appearance: button;}button::-moz-focus-inner,[type="button"]::-moz-focus-inner,[type="reset"]::-moz-focus-inner,[type="submit"]::-moz-focus-inner {  border-style: none;  padding: 0;}button:-moz-focus,[type="button"]:-moz-focus,[type="reset"]:-moz-focus,[type="submit"]:-moz-focus {  outline: 1px dotted ButtonText;}a {  color: inherit;  text-decoration: inherit;}input {  padding: 2px 4px;}img {  display: block;}html { scroll-behavior: smooth  }
+    </style>
+    <style data-tag="default-style-sheet">
+      html {
+        font-family: Inter;
+        font-size: 16px;
+      }
+
+      body {
+        font-weight: 400;
+        font-style:normal;
+        text-decoration: none;
+        text-transform: none;
+        letter-spacing: normal;
+        line-height: 1.15;
+        color: var(--dl-color-gray-black);
+        background-color: var(--dl-color-gray-white);
+
+      }
+    </style>
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&amp;display=swap"
+      data-tag="font"
+    />
+    <link rel="stylesheet" href="{% static 'verivent_welcome/style.css' %}" />
+    <link href="{% static 'verivent_welcome/homepage.css' %}" rel="stylesheet" />
+  </head>
+  <body style="margin-left:10%;margin-right:10%">
+    <div>
+
+      <div class="homepage1-container">
+        <div class="homepage1-homepage1">
+          <div class="homepage1-frame1000004428">
+            <div class="homepage1-header1">
+              <div class="homepage1-backgroundsec">
+                <div class="homepage1-hero8bgshapecoverdark">
+                  <img
+                    src="{% static 'verivent_welcome/image/heroshapewave21336-oaht.svg' %}"
+                    alt="heroshapewave21336"
+                    class="homepage1-heroshapewave2"
+                  />
+                  <div class="homepage1-none">
+                    <img
+                      src="{% static 'verivent_welcome/image/rectangle3211336-fa3g.svg' %}"
+                      alt="Rectangle3211336"
+                      class="homepage1-rectangle321"
+                    />
+                    <img
+                      src="{% static 'verivent_welcome/image/rectangle3221336-c1ne-500w.png' %}"
+                      alt="Rectangle3221336"
+                      class="homepage1-rectangle322"
+                    />
+                    <img
+                      src="{% static 'verivent_welcome/image/rectangle3231336-jlh-200h.png' %}"
+                      alt="Rectangle3231336"
+                      class="homepage1-rectangle323"
+                    />
+                    <img
+                      src="{% static 'verivent_welcome/image/rectangle3231336-o3rm-200w.png' %}"
+                      alt="Rectangle3231336"
+                      class="homepage1-rectangle3231"
+                    />
+                    <img
+                      src="{% static 'verivent_welcome/image/rectangle3231336-elpa-200h.png' %}"
+                      alt="Rectangle3231336"
+                      class="homepage1-rectangle3232"
+                    />
+                  </div>
+                </div>
+                <div class="homepage1-filter"></div>
+              </div>
+              <div class="homepage1-container1">
+                <div class="homepage1-navbarstyle2navbarlight">
+                  <div class="homepage1-navbarbrandsec"></div>
+                  <div class="homepage1-navbartoggler">
+                    <div class="homepage1-navbartogglericon"></div>
+                  </div>
+                  <div class="homepage1-a"></div>
+                </div>
+              </div>
+              <div class="homepage1-colmd4"></div>
+              <div class="homepage1-group159">
+                <div class="homepage1-group158">
+                  <span class="homepage1-text"><span>Free Register</span></span>
+                  <div class="homepage1-group155">
+                    <img
+                      src="{% static 'verivent_welcome/image/ellipse391336-m5g-200h.png' %}"
+                      alt="Ellipse391336"
+                      class="homepage1-ellipse39"
+                    />
+                    <img
+                      src="{% static 'verivent_welcome/image/vector3311336-urss.svg' %}"
+                      alt="Vector3311336"
+                      class="homepage1-vector331"
+                    />
+                  </div>
+                </div>
+                <div class="homepage1-group157">
+                  <span class="homepage1-text002">
+                    <span>Great Service</span>
+                  </span>
+                  <div class="homepage1-group156">
+                    <img
+                      src="{% static 'verivent_welcome/image/ellipse391336-blnk-200h.png' %}"
+                      alt="Ellipse391336"
+                      class="homepage1-ellipse391"
+                    />
+                    <img
+                      src="{% static 'verivent_welcome/image/vector3311336-oyp.svg' %}"
+                      alt="Vector3311336"
+                      class="homepage1-vector3311"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="homepage1-colmd8">
+              <h1 class="homepage1-text004">
+                <span class="homepage1-text005">Connecting Investors to</span>
+                <span class="homepage1-text006">Verfied</span>
+                <span>Nigerian Start-ups</span>
+              </h1>
+            </div>
+            <div class="homepage1-frame1000004427">
+              <div class="homepage1-frame33679">
+                <img
+                  src="{% static 'verivent_welcome/image/rectangle161337-hpfv-400w.png' %}"
+                  alt="Rectangle161337"
+                  class="homepage1-rectangle16"
+                />
+                <span class="homepage1-text008">
+                  <span>Enter business /registration no.</span>
+                </span>
+              </div>
+              <button class="homepage1-button-mdsec">
+                <span class="homepage1-text010 btnText">
+                  <span>Quick Verify</span>
+                </span>
+              </button>
+            </div>
+            <div class="homepage1-frame427320589">
+              <span class="homepage1-text012 h2"><span>VeriVent.</span></span>
+              <div class="homepage1-frame33687">
+                <div class="homepage1-navigation-menu">
+                  <div class="homepage1-products">
+                    <span class="homepage1-text014"><span>Home</span></span>
+                  </div>
+                  <div class="homepage1-company">
+                    <span class="homepage1-text016 MediumType@18">
+                      <span>Products</span>
+                    </span>
+                    <div class="homepage1-arrowdown">
+                      <div class="homepage1-vuesaxlineararrowdown">
+                        <div class="homepage1-arrowdown1">
+                          <img
+                            src="{% static 'verivent_welcome/image/vector1337-114.svg' %}"
+                            alt="Vector1337"
+                            class="homepage1-vector"
+                          />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <span class="homepage1-text018 MediumType@18">
+                    <span>Pricing</span>
+                  </span>
+                  <span class="homepage1-text020 MediumType@18">
+                    <span>User Guide</span>
+                  </span>
+                  <span class="homepage1-text022 MediumType@18">
+                    <span>Benefits</span>
+                  </span>
+                </div>
+                <button class="homepage1-button">
+                  <span class="homepage1-text024 MediumType@18">
+                    <span>Login</span>
+                  </span>
+                </button>
+                <button class="homepage1-button1">
+                  <span class="homepage1-text026"><span>Sign up</span></span>
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="homepage1-homepage2">
+          <div class="homepage1-frame1000004429">
+            <div class="homepage1-frame24">
+              <div class="homepage1-row">
+                <div class="homepage1-colmd41">
+                  <div class="homepage1-card">
+                    <div class="homepage1-iconcoolicon06">
+                      <div class="homepage1-frame29auction">
+                        <img
+                          src="{% static 'verivent_welcome/image/glyph1338-frfk.svg' %}"
+                          alt="Glyph1338"
+                          class="homepage1-glyph"
+                        />
+                      </div>
+                    </div>
+                    <h3 class="homepage1-text028 h5">
+                      <span>Certification Status</span>
+                    </h3>
+                    <img
+                      src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/5227e7c4-daad-4e98-bcaa-b300f28c59b4/c152090b-e488-475d-8598-994d07a92e72?org_if_sml=1135"
+                      alt="fixedwidthfixedheightsec1338"
+                      class="homepage1-fixedwidthfixedheightsec"
+                    />
+                    <span class="homepage1-text030 paragraph">
+                      <span>
+                        Certificate verification and status is provided to
+                        ensure that the holder of the certificate is genuine.
+                      </span>
+                    </span>
+                  </div>
+                </div>
+                <div class="homepage1-colmd42">
+                  <div class="homepage1-card1">
+                    <div class="homepage1-iconcoolicon05">
+                      <img
+                        src="{% static 'verivent_welcome/image/frame1338-f621.svg' %}"
+                        alt="Frame1338"
+                        class="homepage1-frame"
+                      />
+                    </div>
+                    <h3 class="homepage1-text032 h5">
+                      <span>Legal Compliance</span>
+                    </h3>
+                    <img
+                      src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/5227e7c4-daad-4e98-bcaa-b300f28c59b4/186006c1-5472-4657-b3ef-0c8102d7d10c?org_if_sml=1135"
+                      alt="fixedwidthfixedheightsec1338"
+                      class="homepage1-fixedwidthfixedheightsec1"
+                    />
+                    <span class="homepage1-text034 paragraph">
+                      <span>
+                        The products created by VeriVent guarantee an accurate
+                        and up-to-date KYC procedure.
+                      </span>
+                    </span>
+                  </div>
+                </div>
+                <div class="homepage1-colmd43">
+                  <div class="homepage1-card2">
+                    <img
+                      src="{% static 'verivent_welcome/image/iconcoolicon041338-vb3f.svg' %}"
+                      alt="iconcoolicon041338"
+                      class="homepage1-iconcoolicon04"
+                    />
+                    <h3 class="homepage1-text036 h5">
+                      <span>Business Registration Status</span>
+                    </h3>
+                    <img
+                      src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/5227e7c4-daad-4e98-bcaa-b300f28c59b4/c963e95a-c87b-4b56-928d-a5f327494bc6?org_if_sml=1135"
+                      alt="fixedwidthfixedheightsec1338"
+                      class="homepage1-fixedwidthfixedheightsec2"
+                    />
+                    <span class="homepage1-text038 paragraph">
+                      <span>
+                        The solutions developed by VeriVent provides the
+                        necessary up-to-date data of every registered start-ups
+                        in Nigeria.
+                      </span>
+                    </span>
+                  </div>
+                </div>
+              </div>
+              <button class="homepage1-button2">
+                <img
+                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/5227e7c4-daad-4e98-bcaa-b300f28c59b4/b216951b-106d-4a2e-9025-53461b7fd0cc?org_if_sml=1669"
+                  alt="Rectangle19I133"
+                  class="homepage1-rectangle19"
+                />
+                <span class="homepage1-text040">
+                  <span>More About Platform</span>
+                </span>
+              </button>
+            </div>
+            <div class="homepage1-tittle-description">
+              <div class="homepage1-tittle">
+                <span class="homepage1-text042 BoldType@40">
+                  <span>
+                    <span>Easy, Simple,</span>
+                    <br />
+                    <span>Affordable</span>
+                  </span>
+                </span>
+              </div>
+              <span class="homepage1-text047">
+                <span>
+                  Verivent helps connects Investors (Venture capitalists and
+                  government) to verified Nigerian startups and also verify
+                  every startup Owners Identity using Verifieds API.
+                </span>
+              </span>
+            </div>
+          </div>
+        </div>
+        <div class="homepage1-homepage3">
+          <div class="homepage1-u-s-e-r-g-u-i-d-e">
+            <img
+              src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/5227e7c4-daad-4e98-bcaa-b300f28c59b4/5a358fec-fadf-493f-8d0d-a8bb4f81e883?org_if_sml=115664"
+              alt="Ellipse91339"
+              class="homepage1-ellipse9"
+            />
+            <div class="homepage1-frame33677"></div>
+            <div class="homepage1-content">
+              <div class="homepage1-images">
+                <img
+                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/5227e7c4-daad-4e98-bcaa-b300f28c59b4/08a34ada-f005-44c5-866f-ebfb6dd72785?org_if_sml=1366806"
+                  alt="bgI133"
+                  class="homepage1-bg"
+                />
+              </div>
+            </div>
+            <div class="homepage1-stepper">
+              <img
+                src="{% static 'verivent_welcome/image/vector51339-34kc.svg' %}"
+                alt="Vector51339"
+                class="homepage1-vector5"
+              />
+              <img
+                src="{% static 'verivent_welcome/image/vector61339-xdht.svg' %}"
+                alt="Vector61339"
+                class="homepage1-vector6"
+              />
+              <div class="homepage1-step1">
+                <div class="homepage1-group33716">
+                  <img
+                    src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/5227e7c4-daad-4e98-bcaa-b300f28c59b4/4ab5ce6b-47cc-4e28-bf7b-369375f7d2fb?org_if_sml=1906"
+                    alt="Ellipse251339"
+                    class="homepage1-ellipse25"
+                  />
+                  <span class="homepage1-text049 SemiboldType@24">1</span>
+                </div>
+                <span class="homepage1-text050 MediumType20">
+                  <span>Register your VeriVent account.</span>
+                </span>
+              </div>
+              <div class="homepage1-step2">
+                <div class="homepage1-group337161">
+                  <img
+                    src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/5227e7c4-daad-4e98-bcaa-b300f28c59b4/3429523e-b2b1-4b41-933a-f1679080e9bc?org_if_sml=1906"
+                    alt="Ellipse251339"
+                    class="homepage1-ellipse251"
+                  />
+                  <span class="homepage1-text052 SemiboldType@24">2</span>
+                </div>
+                <span class="homepage1-text053 MediumType20">
+                  <span>Get your Business verified and listed</span>
+                </span>
+              </div>
+              <div class="homepage1-step3">
+                <div class="homepage1-group337162">
+                  <img
+                    src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/5227e7c4-daad-4e98-bcaa-b300f28c59b4/e43053f1-4a8b-4a9f-a926-638460a39b52?org_if_sml=1610"
+                    alt="Ellipse251339"
+                    class="homepage1-ellipse252"
+                  />
+                  <span class="homepage1-text055 SemiboldType@24">3</span>
+                </div>
+                <span class="homepage1-text056 MediumType20">
+                  <span>Yes... That’s all you need to do to start.</span>
+                </span>
+              </div>
+            </div>
+            <img
+              src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/5227e7c4-daad-4e98-bcaa-b300f28c59b4/8c966381-2c5a-46e9-a7b0-10a01e8dc4c4?org_if_sml=116191"
+              alt="Ellipse101339"
+              class="homepage1-ellipse10"
+            />
+            <div class="homepage1-tittle-descriptions">
+              <span class="homepage1-text058 RegularType@20">
+                <span>
+                  <span>
+                    Get your startup verified and listed for more traction
+                  </span>
+                  <br />
+                  <span>
+                    from our limitless list of investors who are on the search
+                    for viable startups to invest in.
+                  </span>
+                </span>
+              </span>
+              <div class="homepage1-tittle1">
+                <span class="homepage1-text063 BoldType@40">
+                  <span>Quick and Easy Steps</span>
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="homepage1-homepage4">
+          <div class="homepage1-testimonials">
+            <div class="homepage1-group272">
+              <img
+                src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/5227e7c4-daad-4e98-bcaa-b300f28c59b4/20620811-402b-488c-8186-3a690a556545?org_if_sml=11233"
+                alt="Ellipse561331"
+                class="homepage1-ellipse56"
+              />
+              <div class="homepage1-group269">
+                <img
+                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/5227e7c4-daad-4e98-bcaa-b300f28c59b4/4d694722-edb3-48fe-bf4c-083afde20e9c?org_if_sml=1447"
+                  alt="Ellipse551331"
+                  class="homepage1-ellipse55"
+                />
+                <img
+                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/5227e7c4-daad-4e98-bcaa-b300f28c59b4/cf756793-2420-4def-bafd-295e3de92d3f?org_if_sml=1524"
+                  alt="Ellipse561331"
+                  class="homepage1-ellipse561"
+                />
+              </div>
+              <img
+                src="{% static 'verivent_welcome/image/vector1331-ehl8.svg' %}"
+                alt="Vector1331"
+                class="homepage1-vector1"
+              />
+              <img
+                src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/5227e7c4-daad-4e98-bcaa-b300f28c59b4/6bfd01db-7783-40f3-9c3e-893915721b2e?org_if_sml=11753"
+                alt="Rectangle1331331"
+                class="homepage1-rectangle133"
+              />
+              <img
+                src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/5227e7c4-daad-4e98-bcaa-b300f28c59b4/3ed7ab8d-fd5f-4d22-a960-637da7f3c59c?org_if_sml=1210606"
+                alt="image611331"
+                class="homepage1-image61"
+              />
+              <div class="homepage1-group268">
+                <img
+                  src="{% static 'verivent_welcome/image/vector3361331-vg8s.svg' %}"
+                  alt="Vector3361331"
+                  class="homepage1-vector336"
+                />
+                <img
+                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/5227e7c4-daad-4e98-bcaa-b300f28c59b4/b88ca6aa-74ee-4722-bcb2-72d6fa65de18?org_if_sml=1287"
+                  alt="Ellipse481331"
+                  class="homepage1-ellipse48"
+                />
+                <img
+                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/5227e7c4-daad-4e98-bcaa-b300f28c59b4/d6bc2ec9-c8df-4b4d-87da-1b97c0d9a21f?org_if_sml=1287"
+                  alt="Ellipse491331"
+                  class="homepage1-ellipse49"
+                />
+              </div>
+              <div class="homepage1-group270">
+                <img
+                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/5227e7c4-daad-4e98-bcaa-b300f28c59b4/53aac8e0-cb3d-4d9e-8be1-46b247ab46cb?org_if_sml=14139"
+                  alt="Ellipse611331"
+                  class="homepage1-ellipse61"
+                />
+                <img
+                  src="{% static 'verivent_welcome/image/vector3381331-03e.svg' %}"
+                  alt="Vector3381331"
+                  class="homepage1-vector338"
+                />
+              </div>
+              <div class="homepage1-group271">
+                <img
+                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/5227e7c4-daad-4e98-bcaa-b300f28c59b4/ff9ae561-b0e4-425c-a6ff-a69919e09bd0?org_if_sml=14139"
+                  alt="Ellipse611331"
+                  class="homepage1-ellipse611"
+                />
+                <img
+                  src="{% static 'verivent_welcome/image/vector3381331-4lp.svg' %}"
+                  alt="Vector3381331"
+                  class="homepage1-vector3381"
+                />
+              </div>
+              <div class="homepage1-group194">
+                <div class="homepage1-group193">
+                  <span class="homepage1-text065">
+                    <span>Sharon Uche</span>
+                  </span>
+                  <span class="homepage1-text067">
+                    <span>CEO ExpatNigeria</span>
+                  </span>
+                </div>
+                <img
+                  src="{% static 'verivent_welcome/image/svg1331-sqk.svg' %}"
+                  alt="SVG1331"
+                  class="homepage1-s-v-g"
+                />
+                <span class="homepage1-text069">
+                  <span>
+                    “It had always been a great deal trying to prove to
+                    investors about how legitimate my startup is, VeriVent came
+                    to the rescue”
+                  </span>
+                </span>
+                <div class="homepage1-group192">
+                  <img
+                    src="{% static 'verivent_welcome/image/star61331-adfj.svg' %}"
+                    alt="Star61331"
+                    class="homepage1-star6"
+                  />
+                  <img
+                    src="{% static 'verivent_welcome/image/star71331-ltqq.svg' %}"
+                    alt="Star71331"
+                    class="homepage1-star7"
+                  />
+                  <img
+                    src="{% static 'verivent_welcome/image/star81331-hql.svg' %}"
+                    alt="Star81331"
+                    class="homepage1-star8"
+                  />
+                  <img
+                    src="{% static 'verivent_welcome/image/star91331-sssr.svg' %}"
+                    alt="Star91331"
+                    class="homepage1-star9"
+                  />
+                  <img
+                    src="{% static 'verivent_welcome/image/star101331-gdfhh.svg' %}"
+                    alt="Star101331"
+                    class="homepage1-star10"
+                  />
+                </div>
+              </div>
+            </div>
+            <div class="homepage1-blog">
+              <div class="homepage1-heading">
+                <span class="homepage1-text071">
+                  <span>Check what our clients are saying</span>
+                </span>
+                <span class="homepage1-text073"><span>Testimonials</span></span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="homepage1-homepage5">
+          <div class="homepage1-frame1000004430">
+            <div class="homepage1-frame11layout4">
+              <div class="homepage1-container2">
+                <div class="homepage1-row1">
+                  <div class="homepage1-maincontent">
+                    <h6 class="homepage1-text075 h6">
+                      <span>Newsletter</span>
+                    </h6>
+                    <h3 class="homepage1-text077 h2">
+                      <span>Request A Free Consultation</span>
+                    </h3>
+                    <span class="homepage1-text079 paragraph">
+                      <span>
+                        <span>
+                          Verifying a business has no limits just like the
+                          damage not verifying it can
+                        </span>
+                        <br />
+                        <span>
+                          cause both founders and investors. Reach out to us and
+                          let’s
+                        </span>
+                        <br />
+                        <span>handle the gumshoe works</span>
+                      </span>
+                    </span>
+                  </div>
+                </div>
+                <div class="homepage1-row2">
+                  <div class="homepage1-colmd8sec">
+                    <div class="homepage1-subscribe">
+                      <div class="homepage1-inputgroup">
+                        <input
+                          type="text"
+                          placeholder="Your Email"
+                          class="homepage1-formcontrolinputstyle1"
+                        />
+                        <div class="homepage1-inputgroupappend">
+                          <div class="homepage1-btn">
+                            <span class="homepage1-text086">
+                              <span>Subscribe</span>
+                            </span>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="homepage1-footer">
+              <div class="homepage1-div">
+                <div class="homepage1-container3">
+                  <div class="homepage1-row3">
+                    <div class="homepage1-colmd2">
+                      <h5 class="homepage1-text088 h5">
+                        <span>Company Info</span>
+                      </h5>
+                      <div class="homepage1-div1">
+                        <span class="homepage1-text090 link">
+                          <span>About Us</span>
+                        </span>
+                        <span class="homepage1-text092 link">
+                          <span>Carrier</span>
+                        </span>
+                        <span class="homepage1-text094 link">
+                          <span>We are hiring</span>
+                        </span>
+                        <span class="homepage1-text096 link">
+                          <span>Blog</span>
+                        </span>
+                      </div>
+                    </div>
+                    <div class="homepage1-colmd21">
+                      <h5 class="homepage1-text098 h5"><span>Legal</span></h5>
+                      <div class="homepage1-div2">
+                        <span class="homepage1-text100 link">
+                          <span>About Us</span>
+                        </span>
+                        <span class="homepage1-text102 link">
+                          <span>Carrier</span>
+                        </span>
+                        <span class="homepage1-text104 link">
+                          <span>We are hiring</span>
+                        </span>
+                        <span class="homepage1-text106 link">
+                          <span>Blog</span>
+                        </span>
+                      </div>
+                    </div>
+                    <div class="homepage1-colmd22">
+                      <h5 class="homepage1-text108 h5">
+                        <span>Features</span>
+                      </h5>
+                      <div class="homepage1-div3">
+                        <span class="homepage1-text110 link">
+                          <span>Business Marketing</span>
+                        </span>
+                        <span class="homepage1-text112 link">
+                          <span>User Analytic</span>
+                        </span>
+                        <span class="homepage1-text114 link">
+                          <span>Live Chat</span>
+                        </span>
+                        <span class="homepage1-text116 link">
+                          <span>Unlimited Support</span>
+                        </span>
+                      </div>
+                    </div>
+                    <div class="homepage1-colmd23">
+                      <h5 class="homepage1-text118 h5">
+                        <span>Resources</span>
+                      </h5>
+                      <div class="homepage1-div4">
+                        <span class="homepage1-text120 link">
+                          <span>IOS &amp; Android</span>
+                        </span>
+                        <span class="homepage1-text122 link">
+                          <span>Watch a Demo</span>
+                        </span>
+                        <span class="homepage1-text124 link">
+                          <span>Customers</span>
+                        </span>
+                        <span class="homepage1-text126 link">
+                          <span>API</span>
+                        </span>
+                      </div>
+                    </div>
+                    <div class="homepage1-colmd44">
+                      <h5 class="homepage1-text128 h5">
+                        <span>Get In Touch</span>
+                      </h5>
+                      <div class="homepage1-div5">
+                        <div class="homepage1-featureitemsec">
+                          <img
+                            src="{% static 'verivent_welcome/image/bxbxphone1331-y5wa.svg' %}"
+                            alt="bxbxphone1331"
+                            class="homepage1-bxbxphone"
+                          />
+                          <h6 class="homepage1-text130 h6">
+                            <span>(480) 555-0103</span>
+                          </h6>
+                        </div>
+                        <div class="homepage1-featureitemsec1">
+                          <img
+                            src="{% static 'verivent_welcome/image/bxbxmap1331-akwa.svg' %}"
+                            alt="bxbxmap1331"
+                            class="homepage1-bxbxmap"
+                          />
+                          <h6 class="homepage1-text132 h6">
+                            <span>
+                              <span>4517 Washington Ave. Manchester,</span>
+                              <br />
+                              <span>Kentucky 39495</span>
+                            </span>
+                          </h6>
+                        </div>
+                        <div class="homepage1-featureitemsec2">
+                          <img
+                            src="{% static 'verivent_welcome/image/carbonsendalt1331-mkmf.svg' %}"
+                            alt="carbonsendalt1331"
+                            class="homepage1-carbonsendalt"
+                          />
+                          <h6 class="homepage1-text137 h6">
+                            <span>debra.holt@example.com</span>
+                          </h6>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="homepage1-container4">
+                <div class="homepage1-row4">
+                  <div class="homepage1-colmd7">
+                    <div class="homepage1-privacy-terms">
+                      <span class="homepage1-text139">
+                        <span>Privacy Policy</span>
+                      </span>
+                      <span class="homepage1-text141 RegularType@18">|</span>
+                      <span class="homepage1-text142">
+                        <span>Terms &amp; Conditions</span>
+                      </span>
+                      <span class="homepage1-text144 RegularType@18">|</span>
+                      <span class="homepage1-text145">
+                        <span>Cookie Policy</span>
+                      </span>
+                    </div>
+                  </div>
+                  <div class="homepage1-colmd6">
+                    <div class="homepage1-socialmedia">
+                      <div class="homepage1-facebooksec">
+                        <img
+                          src="{% static 'verivent_welcome/image/antdesignfacebookfilled1331-bn1d.svg' %}"
+                          alt="antdesignfacebookfilled1331"
+                          class="homepage1-antdesignfacebookfilled"
+                        />
+                      </div>
+                      <div class="homepage1-instagramsec">
+                        <img
+                          src="{% static 'verivent_welcome/image/antdesigninstagramoutlined1331-dhe.svg' %}"
+                          alt="antdesigninstagramoutlined1331"
+                          class="homepage1-antdesigninstagramoutlined"
+                        />
+                      </div>
+                      <div class="homepage1-twittersec">
+                        <img
+                          src="{% static 'verivent_welcome/image/antdesigntwitteroutlined1331-0dgg.svg' %}"
+                          alt="antdesigntwitteroutlined1331"
+                          class="homepage1-antdesigntwitteroutlined"
+                        />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
