@@ -29,6 +29,13 @@ This project was built by Team Meraki for the Ingressive for Good X Verified Afr
 
 
 
+## Demo
+
+Click the link below for a short demo ☟
+
+
+https://drive.google.com/file/d/1no7qY6EOKKPc5rUQloGqTdnjWmDGu9I1/view
+
 ## Tech Stack 💻
 
 **Client:** Figma, HTML, CSS
